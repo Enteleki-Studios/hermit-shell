@@ -1,0 +1,23 @@
+{
+  "name": "@enteleki-studios/hermit-shell",
+  "version": "1.0.0",
+  "description": "A simple CLI backend for web-based terminal emulators",
+  "homepage": "https://github.com/Enteleki-Studios/hermit-shell#readme",
+  "bugs": {
+    "url": "https://github.com/Enteleki-Studios/hermit-shell/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enteleki-Studios/hermit-shell.git"
+  },
+  "license": "MIT",
+  "author": "mikeymaxdb",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
